@@ -62,4 +62,4 @@ Thriller
 War
 Western
 
-You can participate in this project here : https://learning.edx.org/course/course-v1:HarvardX+PH125.9x+2T2021/home
+You can download the data and participate in this project here : https://learning.edx.org/course/course-v1:HarvardX+PH125.9x+2T2021/home
